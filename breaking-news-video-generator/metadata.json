@@ -1,0 +1,6 @@
+{
+  "name": "Breaking News Video Generator",
+  "description": "লোকাল স্টোরেজ ব্যবহার করে ব্রেকিং নিউজ ওভারলে এবং অ্যানিমেটেড টিকার ভিডিও জেনারেটর (স্বচ্ছ এবং গ্রিন স্ক্রিন ব্যাকগ্রাউন্ড সাপোর্ট সহ)।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
