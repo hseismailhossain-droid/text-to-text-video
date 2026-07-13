@@ -1,0 +1,6 @@
+{
+  "name": "Auto Overlay Studio",
+  "description": "একটি আধুনিক আল্ট্রা-স্মুথ অটো ওভারলে স্টুডিও যা দিয়ে স্ক্রলিং নিউজ ও ক্রেডিট ওভারলে ভিডিও (MP4) তৈরি করা যায়।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
